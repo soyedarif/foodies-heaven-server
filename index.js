@@ -16,8 +16,20 @@ app.get('/chefs',(req,res)=>{
     res.send(chefs)
 })
 
+app.get('/chefs/:id',(req,res)=>{
+    const id=parseInt(req.params.id)
+    const chef=chefs.find(c=>c.id===id)
+    res.send(chef)
+})
+
 app.get('/recipies',(req,res)=>{
     res.send(recipies)
+})
+
+app.get('/recipies/:id',(req,res)=>{
+    const id=parseInt(req.params.id)
+    const recipy=recipies.filter(r=>r.id===id)
+    res.send(recipy)
 })
 
 app.listen(port)
