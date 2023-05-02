@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "recipeName": "Butter Chicken",
+    "ingredients": ["chicken", "butter", "tomatoes", "cream", "spices"],
+    "cookingMethod": "Grill the chicken and simmer it in a creamy tomato sauce with spices.",
+    "rating": 4.5,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 1,
+    "recipeName": "Chana Masala",
+    "ingredients": ["chickpeas", "onions", "tomatoes", "spices", "lemon juice"],
+    "cookingMethod": "Saute onions and spices, add chickpeas and tomatoes, and simmer until cooked. Add lemon juice and serve.",
+    "rating": 4.0,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 1,
+    "recipeName": "Palak Paneer",
+    "ingredients": ["spinach", "paneer", "onions", "tomatoes", "spices"],
+    "cookingMethod": "Saute onions and spices, add tomatoes and spinach, and simmer until cooked. Add paneer and serve.",
+    "rating": 4.2,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 2,
+    "recipeName": "Chicken Biryani",
+    "ingredients": ["chicken", "rice", "onions", "spices", "yogurt"],
+    "cookingMethod": "Marinate chicken in yogurt and spices, cook rice separately, and then layer the chicken and rice with fried onions and spices.",
+    "rating": 4.7,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 2,
+    "recipeName": "Samosa",
+    "ingredients": ["potatoes", "peas", "spices", "flour", "oil"],
+    "cookingMethod": "Boil and mash potatoes, add peas and spices, and fill the mixture in flour dough triangles. Fry until crispy.",
+    "rating": 4.0,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 2,
+    "recipeName": "Aloo Gobi",
+    "ingredients": ["potatoes", "cauliflower", "onions", "spices", "tomatoes"],
+    "cookingMethod": "Saute onions and spices, add potatoes and cauliflower, and cook until tender. Add tomatoes and serve.",
+    "rating": 4.2,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 3,
+    "recipeName": "Tandoori Chicken",
+    "ingredients": ["chicken", "yogurt", "spices", "lemon juice", "ginger-garlic paste"],
+    "cookingMethod": "Marinate chicken in yogurt, spices, lemon juice, and ginger-garlic paste, and grill until cooked.",
+    "rating": 4.5,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 3,
+    "recipeName": "Naan",
+    "ingredients": ["flour", "yeast", "milk", "oil", "sugar"],
+    "cookingMethod": "Mix flour, yeast, milk, oil, and sugar into a dough, let it rise, and then bake it in a hot oven.",
+    "rating": 4.2,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 3,
+    "recipeName": "Dal Makhani",
+    "ingredients": ["black lentils", "red kidney beans", "butter", "cream", "spices"],
+    "cookingMethod": "Boil lentils and beans, simmer them in a buttery tomato sauce with spices, and add cream before serving.",
+    "rating": 4.3,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 4,
+    "recipeName": "Chicken Tikka Masala",
+    "ingredients": ["chicken", "yogurt", "tomatoes", "cream", "spices"],
+    "cookingMethod": "Marinate chicken in yogurt and spices, grill it, and then simmer it in a tomato and cream sauce with spices.",
+    "rating": 4.6,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 4,
+    "recipeName": "Paneer Tikka",
+    "ingredients": ["paneer", "bell peppers", "onions", "spices", "yogurt"],
+    "cookingMethod": "Marinate paneer, bell peppers, and onions in yogurt and spices, and grill until cooked.",
+    "rating": 4.2,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 4,
+    "recipeName": "Vegetable Biryani",
+    "ingredients": ["rice", "vegetables", "spices", "yogurt", "onions"],
+    "cookingMethod": "Cook rice and vegetables separately, then layer them with yogurt, spices, and fried onions.",
+    "rating": 4.1,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 5,
+    "recipeName": "Pakora",
+    "ingredients": ["vegetables", "gram flour", "spices", "oil", "water"],
+    "cookingMethod": "Mix vegetables, gram flour, spices, and water into a batter, and fry in hot oil until crispy.",
+    "rating": 4.0,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 5,
+    "recipeName": "Dosa",
+    "ingredients": ["rice", "lentils", "oil", "potatoes", "spices"],
+    "cookingMethod": "Soak rice and lentils, grind them into a batter, and cook it into a crispy crepe with potato filling and spices.",
+    "rating": 4.4,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 5,
+    "recipeName": "Matar Paneer",
+    "ingredients": ["paneer", "peas", "onions", "tomatoes", "spices"],
+    "cookingMethod": "Saute onions and spices, add tomatoes and peas, and cook until tender. Add paneer and serve.",
+    "rating": 4.2,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 6,
+    "recipeName": "Gulab Jamun",
+    "ingredients": ["milk powder", "flour", "sugar", "oil", "water"],
+    "cookingMethod": "Mix milk powder, flour, and water into a dough, shape it into balls, fry until golden, and soak in sugar syrup.",
+    "rating": 4.3,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 6,
+    "recipeName": "Rogan Josh",
+    "ingredients": ["lamb", "yogurt", "tomatoes", "spices", "onions"],
+    "cookingMethod": "Saute onions and spices, add lamb and yogurt, and simmer until cooked. Add tomatoes and serve.",
+    "rating": 4.5,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  },
+  {
+    "id": 6,
+    "recipeName": "Gobi Manchurian",
+    "ingredients": ["cauliflower", "flour", "soy sauce", "tomato sauce", "spices"],
+    "cookingMethod": "Mix cauliflower and flour into balls, fry until golden, and then toss with soy sauce, tomato sauce, and spices.",
+    "rating": 4.1,
+    "photoUrl": "https://imgtr.ee/images/2023/05/02/Jt4jb.jpg"
+  }
+]
