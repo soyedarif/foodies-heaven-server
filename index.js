@@ -9,7 +9,7 @@ const chefs=require('./data/chefs.json');
 const recipies=require('./data/recipies.json')
 
 app.get('/',(req,res)=>{
-    res.send('kire dada')
+    res.send('Foodies Heaven Server')
 })
 
 app.get('/chefs',(req,res)=>{
@@ -28,7 +28,7 @@ app.get('/recipies',(req,res)=>{
 
 app.get('/recipies/:id',(req,res)=>{
     const id=parseInt(req.params.id)
-    const recipy=recipies.filter(r=>r.id===id)
+    const recipy=recipies.filter(r=>r.list===id)
     res.send(recipy)
 })
 
